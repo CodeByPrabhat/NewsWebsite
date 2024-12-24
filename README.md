@@ -1,2 +1,2 @@
 # test1
-[NewsLetter](NewsGrid%20%20Website/index.html)
+[NewsLetter](https://codebyprabhat.github.io/test1/NewsGrid%20%20Website/index.html)
